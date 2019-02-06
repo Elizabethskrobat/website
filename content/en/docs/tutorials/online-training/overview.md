@@ -29,6 +29,8 @@ Here are some of the sites that offer online training for Kubernetes:
 
 * [Certified Kubernetes Application Developer Preparation Course with Practice Tests (KodeKloud.com)](https://kodekloud.com/p/kubernetes-certification-course)
 
+* [Intensive 4-day hands-on instructor-led advanced Kubernetes classroom training] (https://www.altoros.com/training/kubernetes)
+
 {{% /capture %}}
 
 
